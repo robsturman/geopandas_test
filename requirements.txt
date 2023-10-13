@@ -2,3 +2,4 @@ pandas
 matplotlib
 Basemap
 Nominatim
+geopy
